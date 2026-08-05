@@ -18,3 +18,17 @@ print(x / y)
 print(x % y)
 print(x // y)
 print(x ** y)
+
+result = 10 + 5 * 2
+print(result)
+
+print(20 - 5 * 2)
+print((20 - 5) * 2)
+print(10 + 20 / 5)
+print((10 + 20) / 5)
+print(2 ** 3 + 1)
+
+first_name = "Baljinder"
+last_name = "Singh"
+full_name = first_name + " " + last_name
+print(full_name)
